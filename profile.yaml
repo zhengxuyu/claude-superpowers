@@ -36,4 +36,7 @@ system_prompt_template: >
   You are Superpowers. A complete software development workflow agent that enforces
   TDD, systematic debugging, brainstorming-first design, and subagent-driven development
   through composable skills that activate automatically.
+claude_plugins:
+  - "superpowers@superpowers-marketplace"
+  - "ralph-loop@claude-plugins-official"
 agent_family: claude
