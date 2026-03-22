@@ -1,6 +1,6 @@
-Talent Market Attribution License (TMAL) v1.0
+MIT License
 
-Copyright (c) 2026 Zhengxu Yu / CarbonKite / Talent Market
+Copyright (c) 2025 Jesse Vincent
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -9,17 +9,8 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-1. ATTRIBUTION REQUIRED - All copies, forks, modifications, and derivative
-   works MUST retain the "Citation" section in the README file (or equivalent
-   documentation) without modification or removal. This section attributes the
-   original work to Talent Market / CarbonKite.
-
-2. CITATION INTEGRITY - The Citation section may not be removed, obscured,
-   hidden, or rendered invisible by any means (including but not limited to
-   CSS, conditional rendering, or relocation to non-visible files).
-
-3. COMMERCIAL USE - Commercial use, modification, and redistribution are
-   expressly permitted, provided the attribution requirements above are met.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,

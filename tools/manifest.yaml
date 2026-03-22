@@ -1,0 +1,11 @@
+# Tool manifest — declare tools this agent can use
+# Superpowers primarily uses built-in Claude Code tools
+
+builtin_tools:
+  - Read
+  - Write
+  - Edit
+  - Bash
+  - Glob
+  - Grep
+  - Agent
